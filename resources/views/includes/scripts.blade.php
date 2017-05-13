@@ -13,3 +13,14 @@
 
 <!-- Theme JavaScript -->
 <script src="js/agency.min.js"></script>
+
+<script>
+$(document).ready(function() {
+$('li.active').removeClass('active');
+});
+
+$(".nav a").on("click", function(){
+  $(".nav").find(".active").removeClass("active");
+  $(this).parent().addClass("active");
+});
+</script>

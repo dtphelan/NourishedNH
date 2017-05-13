@@ -49,13 +49,6 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Get On
-                                    <br>The Road To
-                                    <br>Healthy!</h4>
-                            </div>
-                        </li>
                     </ul>
                 </div>
             </div>

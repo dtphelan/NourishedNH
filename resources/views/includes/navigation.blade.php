@@ -22,10 +22,10 @@
                     <a class="page-scroll" href="#work">work with me</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#love">things i love</a>
+                    <a class="page-scroll" href="#contact">contact</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">contact</a>
+                    <a class='page-scroll' href='#map'>directions</a>
                 </li>
             </ul>
         </div>
