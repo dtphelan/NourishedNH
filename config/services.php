@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => env('https://api.mailgun.net/v3/www.nourishednh.com'),
+        'secret' => env('key-15bf54dd7a0e5151b4bc6f66ac755978'),
     ],
 
     'ses' => [
