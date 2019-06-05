@@ -6,12 +6,7 @@
           <h2 class="section-heading">Directions</h2>
         </div>
         <div class='col-lg-12'>
-          <iframe
-            height='100%'
-            width='100%'
-            frameborder="0" style="border:0"
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyArfJFCG6gjrkA16aNu4REdLKV9qIElK4k
-              &q=20+Warren+Street,Concord+NH" allowfullscreen>
+          <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJJXdTZpFq4okRV8YOsX3aNOk&key=AIzaSyA-xalat_ZDM-nHea2tRIdxYXLUItkDgT8" allowfullscreen>
           </iframe>
         </div>
       </div>
