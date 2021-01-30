@@ -10,7 +10,7 @@
             <div class="row text-center">
                 <div class="col-md-6">
                     <span class="fa-stack fa-6x">
-                        <i class="fa fa-circle fa-stack-3x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-6x text-primary"></i>
                         <i class="fa fa-cutlery fa-stack-2x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Counseling</h4>
@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-md-6">
                     <span class="fa-stack fa-6x">
-                        <i class="fa fa-circle fa-stack-3x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-6x text-primary"></i>
                         <i class="fa fa-user-md fa-stack-2x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Follow Ups</h4>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="col-md-6">
                     <span class="fa-stack fa-6x">
-                        <i class="fa fa-circle fa-stack-3x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-6x text-primary"></i>
                         <i class="fa fa-id-card-o fa-stack-2x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Insurance</h4>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-md-6">
                     <span class="fa-stack fa-6x">
-                        <i class="fa fa-circle fa-stack-3x text-primary"></i>
+                        <i class="fa fa-circle fa-stack-6x text-primary"></i>
                         <i class="fa fa-phone fa-stack-2x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Virtual Nutrition Counseling</h4>
