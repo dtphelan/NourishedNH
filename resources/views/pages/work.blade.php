@@ -11,7 +11,7 @@
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-heart fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-id-card-o fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Counseling</h4>
                     <p class="text-muted">The initial assessment typically lasts 90 minutes and involves a thorough review of your current and past medical history, laboratory tests, medications and supplements, family history, lifestyle and physical activity, your current eating preferences, nutrition knowledge and skills, and your wellness goals. With this information, we will then customize a plan for you that will keep all of your lifestyle and wellness goals in mind.</p>
@@ -30,7 +30,16 @@
                         <i class="fa fa-cutlery fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Insurance</h4>
-                    <p class="text-muted">Did you know that my services are covered by most insurance plans? You may not have to pay for your visit! Currently, Nourished Nutrition Counseling LLC accepts Anthem Blue Cross, United Healthcare, Harvard Pilgrim including Health Plans, Cigna, and Tufts. Want to see what your coverage will allow? Contact Nourished right now!</p>
+                    <p class="text-muted">Did you know that our services are covered by most insurance plans? You may not have to pay for your visit! Currently, Nourished Nutrition Counseling LLC accepts Anthem Blue Cross, United Healthcare, Harvard Pilgrim including Health Plans, Cigna, and Tufts. Want to see what your coverage will allow? Contact Nourished right now!</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Virtual Nutrition Counseling</h4>
+                    <p class="text-muted">Telehealth allows you to have regular nutrition consultations without leaving your home or office. Virtual nutrition counseling works over a HIPAA-compliant, secure and confidential platform, GetHealthie, providing individualized care via video sessions. All sessions can be done from anywhere that the client has access to a computer or phone and internet connection. GetHealthie can be used on a browser or app downloaded from your App Store/Google Play. Telehealth services are covered by all insurance plans.</p>
+                    <p class="text-muted">Currently, because of state licensure laws, we can only provide virtual services to individuals residing in the following states: Arizona, California, Colorado, Connecticut, Indiana, Massachusetts, Michigan, New Hampshire, New Jersey, New York, Texas, Utah, Vermont, Virginia, Washington and Wisconsin.</p>
                 </div>
             </div>
             </div>
