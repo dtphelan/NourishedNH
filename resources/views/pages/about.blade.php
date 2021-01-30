@@ -19,7 +19,7 @@
                                     <h4 class="subheading">Meet Meagan</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Meagan is a New Hampshire native who enjoys working with clients of any age to achieve their unique health goals. Specific areas of expertise include weight management, IBS/IBD, mindful eating, and pediatric nutrition. With experience in education, research, and counseling, she appreciates the value in a collaborative, patient led approach, and works with people to expand their knowledge of nutrition and discover what uniquely motivates them towards their wellness goals.</p>
+                                    <p class="text-muted">Meagan Phelan, RD LDN is a Registered Dietitian specializing in eating disorders, disordered eating, irritable bowel syndrome (IBS), Celiac disease, small intestinal bacterial overgrowth (SIBO), intuitive eating, and pediatric nutrition. With experience in education, research, and counseling, she appreciates the value in a collaborative, patient led approach, and works with people to expand their knowledge of nutrition and discover what uniquely motivates them towards their wellness goals. Meagan practices with Health at Every Size and Intuitive Eating principles at the core of your treatment. No fad diets welcome here!</p>
                                 </div>
                             </div>
                         </li>
@@ -32,7 +32,7 @@
                                     <h4 class="subheading">Background</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Meagan earned her Bachelor’s Degree with Honors in Dietetics, Nutrition and Food Sciences at the University of Vermont. She then completed her Dietetic Internship at the prestigious National Institutes of Health in Bethesda, MD. Before returning to the Granite State, she worked for several years as an Outpatient Dietitian for Kaiser Permanente in Washington, DC. She currently lives in Bow with her husband Dan, and their fur-baby, Ellie. She is an active cook, dog walker, book reader, and traveler.</p>
+                                    <p class="text-muted">Meagan earned her Bachelor’s Degree with Honors in Dietetics, Nutrition and Food Sciences at the University of Vermont. She then completed her Dietetic Internship at the prestigious National Institutes of Health in Bethesda, MD. Before returning to the Granite State, she worked for several years as an Outpatient Dietitian for Kaiser Permanente in Washington, DC. She opened her private practice in 2017 after seeing the harmful effects of diet culture and wanting a hands-on approach to promoting body positivity and acceptance. She currently lives in the Concord area with her husband, son, and their fur-baby, Ellie. She is an active cook, dog walker, book reader, and traveler.</p>
                                 </div>
                             </div>
                         </li>
@@ -45,7 +45,7 @@
                                     <h4 class="subheading">Our Services</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">At Nourished Nutrition Counseling LLC, Meagan provides nutrition counseling to treat a wide range of diseases, promote general wellness, and help you achieve your physical activity goals. No food police, no body shame, no judgement. Together with your support system of physicians, coaches, and family members we will develop a customized nutrition and lifestyle plan to achieve your goals.</p>
+                                    <p class="text-muted">At Nourished Nutrition Counseling LLC, Meagan provides nutrition counseling to treat a wide range of diseases, promote general wellness, and help you achieve your physical activity goals. No food police, no body shame, no judgement. Together with your support system of physicians, therapists, and family members, we will develop a normalized pattern of eating that satisfies and heals your body and mind. Meagan has also completed extensive training in the area of body dysmorphia and body acceptance.</p>
                                 </div>
                             </div>
                         </li>
