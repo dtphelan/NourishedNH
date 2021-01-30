@@ -27,19 +27,19 @@
                 <div class="col-md-6">
                     <span class="fa-stack fa-3x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-id-card-o fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Insurance</h4>
-                    <p class="text-muted">Did you know that our services are covered by most insurance plans? You may not have to pay for your visit! Currently, Nourished Nutrition Counseling LLC accepts Anthem Blue Cross, United Healthcare, Harvard Pilgrim including Health Plans, Cigna, and Tufts. Want to see what your coverage will allow? Contact Nourished right now!</p>
-                </div>
-                <div class="col-md-6">
-                    <span class="fa-stack fa-3x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Virtual Nutrition Counseling</h4>
                     <p class="text-muted">Telehealth allows you to have regular nutrition consultations without leaving your home or office. Virtual nutrition counseling works over a HIPAA-compliant, secure and confidential platform, GetHealthie, providing individualized care via video sessions. All sessions can be done from anywhere that the client has access to a computer or phone and internet connection. GetHealthie can be used on a browser or app downloaded from your App Store/Google Play. Telehealth services are covered by all insurance plans.</p>
                     <p class="text-muted">Currently, because of state licensure laws, we can only provide virtual services to individuals residing in the following states: Arizona, California, Colorado, Connecticut, Indiana, Massachusetts, Michigan, New Hampshire, New Jersey, New York, Texas, Utah, Vermont, Virginia, Washington and Wisconsin.</p>
+                </div>
+                <div class="col-md-6">
+                    <span class="fa-stack fa-3x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-id-card-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Insurance</h4>
+                    <p class="text-muted">Did you know that our services are covered by most insurance plans? You may not have to pay for your visit! Currently, Nourished Nutrition Counseling LLC accepts Anthem Blue Cross, United Healthcare, Harvard Pilgrim including Health Plans, Cigna, and Tufts. Want to see what your coverage will allow? Contact Nourished right now!</p>
                 </div>
             </div>
             </div>
