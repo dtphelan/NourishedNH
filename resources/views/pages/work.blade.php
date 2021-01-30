@@ -30,7 +30,7 @@
                         <i class="fa fa-cutlery fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Insurance</h4>
-                    <p class="text-muted">Did you know that my services are covered by most insurance plans? You may not have to pay for your visit! Currently, Nourished Nutrition Counseling LLC accepts Anthem Blue Cross, Harvard Pilgrim including Health Plans, Cigna, and Tufts. Want to see what your coverage will allow? Contact Nourished right now!</p>
+                    <p class="text-muted">Did you know that my services are covered by most insurance plans? You may not have to pay for your visit! Currently, Nourished Nutrition Counseling LLC accepts Anthem Blue Cross, United Healthcare, Harvard Pilgrim including Health Plans, Cigna, and Tufts. Want to see what your coverage will allow? Contact Nourished right now!</p>
                 </div>
             </div>
             </div>
