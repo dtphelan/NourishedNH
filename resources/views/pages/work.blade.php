@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Work With Me</h2>
+                    <h2 class="section-heading">Work With Us</h2>
                     <h3 class="section-subheading text-muted">We'll work together to fit your goals</h3>
                 </div>
             </div>
