@@ -18,5 +18,4 @@ Nourished Nutrition Counseling
     @include('pages.work')
     @include('pages.contact')
     @include('pages.blog')
-    @include('pages.map')
 @stop
