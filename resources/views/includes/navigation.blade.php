@@ -19,7 +19,7 @@
                     <a class="page-scroll" href="#about">about</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#work">work with me</a>
+                    <a class="page-scroll" href="#work">work with us</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">contact</a>
